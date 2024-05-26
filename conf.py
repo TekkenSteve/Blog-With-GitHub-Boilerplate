@@ -14,8 +14,7 @@ template = {
     "path": "../Galileo"
 }
 enable_jsdelivr = {
-    "enabled": True,
-    "repo": "TekkenSteve/Blog-With-GitHub-Boilerplate@gh-pages"
+    "enabled": False
 }
 
 # 站点设置
